@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "314a525cc3f76ea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f92cb5f5acab7dd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b055074363abb205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Animaux/Embranchements/Cordés/reptiles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b77d478c75b3e3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Animaux/Embranchements/Embranchement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55821ab617bc8eee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Animaux/Embranchements/Arthropodes/insectes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc637f941fce91c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a66e438d28b5f6e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c7633d9ddc83307",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "acacd9a5b4c73e28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98e4a9ce34b30120",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afbeffc15f95150c",
+    "type": "split",
+    "children": [
+      {
+        "id": "34ca76d81ebca63d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f530e8247fb40ec8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Animaux/Embranchements/Cordés/reptiles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b228d30a87a56fb6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Animaux/Embranchements/Cordés/reptiles.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efaa54377d497841",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b19f699ddeada5f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Animaux/Embranchements/Cordés/reptiles.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b055074363abb205",
+  "lastOpenFiles": [
+    "divers à creuser.md",
+    "Geographie/Egypte.md",
+    "Animaux/Embranchements/Cordés/reptiles.md",
+    "Animaux/Embranchements/Cordés/cordés.md",
+    "Animaux/Embranchements/Cordés/poissons.md",
+    "Animaux/Embranchements/Cordés/amphibiens.md",
+    "Animaux/Embranchements/Arthropodes/arthropodes.md",
+    "Animaux/Embranchements/Arthropodes/myriapodes.md",
+    "Animaux/Embranchements/Arthropodes/insectes.md",
+    "Animaux/Embranchements/Arthropodes/crustacés.md",
+    "Themes.md",
+    "Sciences/Biologie/Etres-vivants.md",
+    "Sciences/Biologie/cellule.md",
+    "Sciences/Biologie/reproduction.md",
+    "Animaux/Espèce.md",
+    "Animaux/Classification des espèces.md",
+    "Animaux/Embranchements/Embranchement.md",
+    "Animaux/Embranchements/Mollusques/mollusques.md",
+    "Animaux/Embranchements/Mollusques/gastéropodes.md",
+    "Animaux/Embranchements/Mollusques/céphalopodes.md",
+    "Animaux/Embranchements/Arthropodes/arachnides.md",
+    "Animaux/Embranchements/Mollusques/bivalves.md",
+    "reptile.md",
+    "Animaux/Embranchements/Nématodes/nématodes.md",
+    "Clupeiformes.md",
+    "Cypriniformes.md",
+    "Animaux/Embranchements/Cordés",
+    "Animaux/Embranchements/Nématodes",
+    "Sciences/Biologie",
+    "Geographie",
+    "Sciences/Chimie/Matériaux/Untitled",
+    "Sciences/Chimie/Matériaux",
+    "Animaux/Embranchements/Mollusques",
+    "Animaux/Embranchements/Arthropodes",
+    "Animaux/Embranchements",
+    "Sciences/Chimie"
+  ]
+}

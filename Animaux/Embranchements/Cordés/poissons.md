@@ -1,0 +1,55 @@
+---
+aliases:
+  - poisson
+---
+Les poissons sont des vertébrés aquatiques. Ils possèdent des [[branchies]] et se déplacent avec des nageoires.
+
+Il y'a 3 grands types de poissons, avec leurs différents ordres :
+- les poissons osseux
+	- [[perciformes]] (poissons communs, qui vivent plutôt dans l'océan)
+		- Le thon est très utilisé en [[gastronomie]], pour les sushis par exemple. Plusieurs espèces de thon sont appelés "thon rouge" pour la couleur de leur chair. Ils peuvent nager très rapidement, certains jusqu'à 75km/h.
+		- La perche est le poisson d'eau douce skin de base en [[Europe]].
+		- La terme daurade regroupe plusieurs espèces de poissons qui ont une chair "raffinée" pour la [[gastronomie]].
+		- Le mérou est un gros poisson qui sert souvent de trophée aux pêcheurs.
+		- Le bar est aussi appelé "loup de mer". 
+		- Le maquereau est très commun dans l'[[atlantique]] nord. Il est souvent mangé en conserve.
+		- Le poisson-clown est connu grâce à Némo. Il vit en symbiose avec les anémones. [[Océan Indien]]
+	- [[Cypriniformes]] (poissons communs, qui vivent plutôt en eau douce)
+		- La carpe est un gros poisson cherché par les pêcheurs. Elle est consommée pour [[Noël]] dans certains pays d'[[Europe]] de l'Est.
+		- Le gardon est un petit poisson d'eau douce.
+		- La tanche est connue pour son manque de vivacité, d'où l'utilisation du mot comme insulte.
+		- Le barbeau se reconnait grâce à sa petite moustache, plus petite que celle des poissons-chats.
+		- Le poisson rouge est un animal de compagnie très commun. Il est originaire de [[Chine]] à la base.
+		- Le goujon est un petit poisson qui est souvent utilisé comme appât.
+	- [[Salmoniformes]] (tout ce qui ressemble à un saumon)
+		- Le saumon nait en eau douce, puis il migre dans la mer pour grandir, et revient en eaux douces pour se reproduire. Beaucoup d'espèces de saumons meurent après la reproduction et servent de nourriture à d'autres espèces animales.
+		- La truite est très proche du saumon, mais vit généralement en eau douce uniquement.
+		- Le taimen est aussi appelé "roi des rivières". C'est une sorte de gros saumon qui vit en [[Sibérie]] et peut faire jusqu'à 2 mètres de long.
+	- [[Siluriformes]] (poissons chats)
+		- Le silure glane est le plus gros poisson d'eau douce. Il peut mesurer jusqu'à 2.5 mètres.
+		- Le poisson chat américain est le poisson-chat skin de base.
+	- [[Anguilliformes]]
+		- L'anguille européenne est l'anguille skin de base. Elle est utilisée en [[gastronomie]]. Elle migre de l'eau douce vers l'océan pour se reproduire.
+		- La murène est connue pour son apparence intimidante et son comportement parfois agressif.
+		- Le congre est une sorte de grosse anguille.
+	- [[Characiformes]]
+		- Le piranha est un symbole du danger des eaux tropicales, bien qu'il ne soit pas si dangereux en pratique. [[Amérique du Sud]]
+		- Le tétra néon est très apprécié dans les aquariums, c'est un petit poisson rouge et bleu. D'autres formes de tétras sont appréciées pour leurs couleurs vives. [[Amérique du Sud]]
+		- Le pacu est connu pour sa [[dentition]] qui ressemble à celle de l'homme.
+	- [[Clupeiformes]]
+		- La sardine vit en banc et est très populaire en [[gastronomie]].
+		- Le hareng vit en banc et est très populaire en [[gastronomie]].
+		- Les anchois sont très populaire en [[gastronomie]].
+- les poissons cartilagineux
+	- [[Carcharhiniformes]] (requins)
+		- Le requin-tigre est zébré. On l'appelle aussi "poubelle des mers" car il mange tout ce qui lui passe sous les dents.
+		- Le requin-marteau à une tête large. Ils sont menacés par les pêcheurs qui veulent leurs nageoires.
+		- Le requin gris de récif est le requin skin de base.
+		- Le requin bouledogue (ou requin taureau) est connu pour son agressivité.
+	- [[Rajiformes]] (raies)
+		- La raie manta peut faire jusqu'à 7 mètres de large.
+		- La raie pastenague a un dard venimeux.
+		- La raie torpille est capable d'assommer ses victimes avec une décharge électrique.
+	- [[Squaliformes]]
+		- Le requin dormeur du [[Groenland]] peut vivre plus de 400 ans.
+		- Le requin lutin est connu pour être particulièrement effrayant.

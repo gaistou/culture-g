@@ -1,0 +1,46 @@
+---
+aliases:
+  - matériau
+---
+On peut classer les matériaux :
+- [[métaux]]
+	- L'acier est un mélange de [[fer]] et de [[carbone]].
+	- L'aluminium est léger et est un bon [[conducteur]].
+	- Le cuivre est un excellent [[conducteur]] utilisé pour les câbles [[électriques]].
+	- Le laiton est un mélange de [[cuivre]] et de [[zinc]], a une apparence dorée, utilisée pour la décoration.
+	- Le bronze est un mélange de [[cuivre]] et d'[[étain]], est durable, utilisé pour la métallurgie.
+	- Le [[titane]] est compatible avec le corps humain, léger et résistant il est utilisé pour des prothèses et autres applications bio. 	
+	- Le magnésium est léger et inflammable, il est utilisé dans des feux d'artifices.
+	- Le [[zinc]] est utilisé protéger les autres métaux de la [[rouille]]. On appelle ça la galvanisation.
+	- L'[[inox]] est un mélange avec au moins 10% de [[chrome]]. Il est utilisé pour son aspect "chromé" pour les ustensiles de [[cuisine]] et les ustensiles [[médicaux]].
+- [[polymères]]
+	- Le polyéthylène est le plastique skin de base.
+	- Le polypropylène est un plastique résistant à la chaleur.
+	- Le PVC est un plastique dur utilisé pour les tuyaux et fenêtres par exemples.
+	- Le polystyrène est très léger et utilisé pour la protection.
+	- Le nylon est un plastique utilisé comme un [[textile]]. C'est la base des vêtements synthétiques.
+	- Le téflon est le nom commercial du polytétrafluoroéthylène, est célèbre pour ses propriétés antiadhésives.
+	- Le silicone est un mélange de [[silicium]] et d'[[oxygène]]. Utilisé en [[cuisine]] et en [[médecine]] pour sa résistance à la chaleur et sa durabilité.
+	- L'acrylique est un plastique transparent utilisé pour les vitres et les lentilles par exemple.
+- [[céramiques]]
+	- La porcelaine est un mélange d'[[argile]], de [[feldspath]] et de [[quartz]]. Découvert en chine en -2000, c'est devenu un produit de luxe à la renaissance.
+	- La faïence est un [[argile]] recouvert d'une glaçure pour lui donner un aspect brillant. Utilisé pour des décorations colorés, très populaire en [[méditerranée]].
+	- Le grès est un [[argile]] cuit très durable, utilisé pour la construction.
+	- La terre cuite est un [[argile]] cuit a basse température. Reconnaissable à a sa couleur rougeâtre, c'est l'un des premiers [[matériaux]] utilisé par l'homme.
+- [[composites]]
+	- Le verre est produit à partir du sable.
+	- La fibre de [[verre]] est très résistance et a de très nombreux usages.
+	- La fibre de carbone est une sorte de fibre de [[verre]] de luxe, plus légère et plus résistante.
+	- Le béton armé est un béton renforcé avec de l'acier. A révolutionné l'[[architecture]] par sa résistance.
+- [[matériaux organiques]]
+	- Le bois des [[arbres]].
+	- Le coton est le matériau le plus utilisé pour le [[textile]]. Il est composé de [[cellulose]].
+	- La caoutchouc est produit à partir du latex de certains [[arbres]] comme l'[[hévéa]]. Utilisé pour les pneus et les semelles par exemple.
+	- La laine est utilisée par l'industrie [[textile]].
+	- Le [[cuir]] est utilisé par l'industrie [[textile]].
+	- Le lin est utilisé par l'industrie [[textile]]. Il était très utilisé dans l'[[Egypte]] ancienne.
+	- Le liège vient de l'[[écorce]] d'une [[espèce]] de [[chêne]]. Il est utilisé pour les bouchons de [[vin]] et pour l'isolation.
+	- La chitine est produit par les [[insectes]] et les [[champignons]]. Elle est parfois utilisée en [[médecine]] pour les fils de suture ou les pansements.
+	- La soie est produite par les vers à soie. C'est un [[textile]] de luxe.
+	- Le chanvre est utilisé par l'industrie [[textile]], en particulier pour faire des cordes.
+	- Le nacre est produit à l'intérieur des coquilles de [[mollusques]] et est utilisé en [[bijouterie]].

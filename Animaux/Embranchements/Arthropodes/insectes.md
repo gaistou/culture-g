@@ -1,0 +1,64 @@
+---
+aliases:
+  - insecte
+---
+Ils ont un corps en 3 parties : [[tête]], [[thorax]], [[abdomen]]. Ils ont 6 pattes, des yeux et des antennes. Parfois ils ont 2 paires d'ailes.
+
+Les principaux ordres d'insectes sont :
+- [[coléoptère]] (scarabées)
+	- La coccinelle à 7 points, connue pour aider les agriculteurs en mangeant les pucerons.
+	- Le scarabée sacré était vénéré par les [[Egypte|égyptiens]] comme symbole d'immortalité et de résistance.
+	- Le hanneton font des larves qui mangent les racines des cultures.
+	- La doryphore de la pomme de terre, ressemble à une coccinelle jaune, connue pour être un gros nuisible pour la culture des pommes de terre.
+	- Le lucane cerf-volant est le plus grand des coléoptères, avec des grosses mandibules.
+	- Le charançon du riz, nuisible dans les cultures.
+	- Le bousier est connu pour faire des boulettes d'excréments qu'il pousse jusqu'à son terrier.
+	- Le ver luisant est connu pour être bioluminescent.
+- [[diptère]] (mouches + moustiques)
+	- Le moustique, saloperie, transmet le [[paludisme]] et la [[dengue]].
+	- La mouche domestique.
+	- La mouche tsé-tsé est connue pour transmettre la [[trypanosomiase africaine]] (ou maladie du sommeil).
+	- La mouche du vinaigre est très utilisée par les chercheurs en [[génétique]] pour sa simplicité.
+	- La mouche bleue est utilisée par les [[médecins]] pour estimer le moment de la mort sur des cadavres.
+	- La syrphe est une mouche qui imite la guêpe.
+- [[lépidoptère]] (papillons + mites)
+	- Le monarque est un papillon connu pour son très long vol [[migratoire]]. C'est un peu le papillon skin de base.
+	- Le morpho bleu est connu pour sa couleur bleue.
+	- La papillon machaon est connue pour sa longue queue.
+	- La Vanessa des chardons est un papillon très commun partout dans le monde. C'est typiquement ça qu'on trouve dans les champs en France.
+	- Le grand paon de nuit est connu pour être le plus grand papillon de nuit.
+	- Le bombyx du murier est la mite qui produit la [[soie]].
+	- La mite des vêtements est petite et s'attaque aux [[textiles]].
+	- Le sphinx tête de mort est connu pour le motif en tête de mort sur son thorax.
+- [[hyménoptère]] (abeilles + guêpes + fourmis)
+	- L'abeille domestique, ses poils l'aident à collecter le [[pollen]].
+	- La guêpe commune, corps élancé, carnivore.
+	- Le frelon est comme une guêpe mais en plus gros. Ils sont herbivores mais donne des insectes à manger à leurs larves.
+	- Le bourdon terrestre aide beaucoup à la [[pollinisation]].
+	- La fourmi de feu est connue pour sa piqûre douloureuse.
+	- La guêpe maçonne à le corps très fin.
+	- La fourmi coupe feuille coupe des feuilles pour faire des cultures de [[champignons]] dont elle se nourrit.
+- [[hémiptère]] (punaises)
+	- La punaise des bois est le skin de base.
+	- La punaise diabolique est connue pour être nuisible pour les cultures.
+	- La cigale est connue pour son chant.
+	- Le puceron se nourrissent de la [[sève]] des plantes et sont nuisibles pour les cultures.
+	- La cochenille est une sorte de puceron blanc qui est aussi nuisible pour les cultures.
+	- La cicadelle dorée est connue pour être nuisible dans les [[vignes]] en répandant une maladie : la flavescence dorée.
+	- Les punaises de lit parasitent les habitations humaines et sucent le [[sang]].
+- [[orthoptère]] (criquet + sauterelle + grillon)
+	- Le criquet pèlerin est le skin de base, connu pour faire des invasions massives de culture.
+	- Le grillon domestique est comestible.
+- [[odonate]] (libellules)
+	- La libellule déprimée est le skin de base, elle mange les moustiques.
+	- L'anax empereur est une des plus grandes [[Espèce|espèces]] de libellules.
+	- Les demoiselles sont des sortes de libellules très fines.
+	- La présence de libellules est souvent un bon indicateur d'une eau saine.
+- [[blattoptère]] (cafards + blattes)
+	- La blatte germanique est le skin de base.
+	- La blatte américaine est connue pour être plus grosse.
+- [[isoptère]] (termites)
+	- La termite de Formose est connue pour manger le [[bois]].
+- [[dermaptère]] (perce-oreilles)
+- [[zygentome]]
+	- Le poisson d'argent est un insecte primitif. Ressemble a une sorte de [[fossile]] [[trilobite]] sans aile. C'est très courant dans les maisons en France.
